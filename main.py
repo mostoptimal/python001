@@ -13,5 +13,13 @@ Usage:
 import sys
 
 print("Hello World!")
-
+print("--------------------")
 print(sys.version)
+print("--------------------")
+print(sys.version_info)
+print("--------------------")
+x = 10
+print(x)
+print("--------------------")
+print(type(x))
+print("--------------------")
